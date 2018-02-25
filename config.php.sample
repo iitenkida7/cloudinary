@@ -1,0 +1,8 @@
+<?php
+
+$CloudinaryConfig = [
+    "cloud_name" => "cloud_name",
+    "api_key" => "999999999999999",
+    "api_secret" => "XXXXXXXXXXXXXXXXXXXXXXXXXXX", 
+];
+
